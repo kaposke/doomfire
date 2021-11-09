@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kj/1KzaM4YRR5+hP+NjbN3BJ3itizrcxlBU0DbxvI4CQnRoszCTa6TzSkjSajIe7ZsIAGiDA7icvLc3eQltRpQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\.net\\doomfire\\doomfire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\raylib-cs\\3.5.0\\raylib-cs.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
